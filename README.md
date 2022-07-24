@@ -1,0 +1,3 @@
+# TrEsri Hunt
+
+The Evil Web-Mercatron has kidnapped Globie and all his friends, only you can save them!! Use our android based AR-game: TrEsri Hunt to spot all the Globies hidden in Building L at Esri campus using the clues. Use Map powered by ArcGIS online to see your location and also locate the different spots inside building L as our Map has a layer for Indoors as well. Don't wait, go and find them all!
